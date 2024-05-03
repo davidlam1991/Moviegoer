@@ -1,5 +1,5 @@
 # Moviegoer
-![screenshot](https://example.com/logo.png)
+![screenshot](https://github.com/davidlam1991/moviegoer/blob/main/public/screenshot.png?raw=true)
 
 A web application for analyzing movie data. Users can upload a CSV file containing a list of movies they've watched, and the website will display a organized table with the movie data.
 
