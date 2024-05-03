@@ -12,6 +12,6 @@ Data analysis: The website analyzes the uploaded data and presents it in a table
 Table Screenshot: Users can save the screenshot of the data table for further use.
 
 To run Moviegoer locally, follow these steps:
-git clone [git@github.com:davidlam1991/moviegoer.git](https://github.com/davidlam1991/moviegoer.git)
-npm install
-npm run dev
+1. git clone https://github.com/davidlam1991/moviegoer.git
+2. npm install
+3. npm run dev
